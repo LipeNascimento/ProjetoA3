@@ -40,7 +40,7 @@ Este projeto implementa um sistema de gestão de fazendas e colheitas utilizando
 ### Excluir Fazenda
 - Permite excluir uma fazenda do sistema pelo nome.
 
-## Pontos Importantes para Apresentação
+## Pontos Importantes
 
 ### Explicação da Arquitetura MVC
 - **Model**: Classes que representam os dados do sistema (Farm e Harvest).
