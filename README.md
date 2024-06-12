@@ -5,17 +5,17 @@ Este projeto implementa um sistema de gestão de fazendas e colheitas utilizando
 
 ## Estrutura do Projeto
 
-### Model (Modelo)
+### Model
 - **Farm**: Representa uma fazenda com nome, endereço, tipo de plantio e área de cultivo.
 - **Harvest**: Representa uma colheita com capacidade, tipo de plantio, condições climáticas, quantidade produzida, data da colheita, preço por unidade e quantidade restante.
 
-### View (Visão)
+### View
 - **FarmView**: Responsável por coletar e exibir informações sobre fazendas utilizando JOptionPane.
 - **HarvestView**: Responsável por coletar e exibir informações sobre colheitas utilizando JOptionPane.
 - **InventoryView**: Responsável por gerenciar a exibição e manipulação do inventário utilizando JOptionPane.
 - **MainView**: O ponto de entrada do programa, contendo o menu principal e coordenando a interação com o usuário.
 
-### Controller (Controlador)
+### Controller
 - **FarmController**: Gerencia as operações relacionadas às fazendas, incluindo adicionar, remover e listar fazendas.
 - **HarvestController**: Gerencia as operações relacionadas às colheitas, incluindo adicionar, listar e atualizar a quantidade de colheitas.
 - **InventoryController**: Gerencia o inventário dos produtos colhidos, incluindo adicionar, remover e calcular o valor total dos produtos no inventário.
