@@ -65,7 +65,7 @@ Este projeto implementa um sistema de gestão de fazendas e colheitas utilizando
 Com esta abordagem, o sistema não só atende aos requisitos especificados, mas também proporciona uma base sólida para futuras expansões e melhorias.
 
 
-### UC Programação de soluções computacionais
+### UC Programação de soluções computacionais - GRUPO ÁNIMA 
 
 ### Membros
 
