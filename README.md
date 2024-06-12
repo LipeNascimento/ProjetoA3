@@ -63,3 +63,16 @@ Este projeto implementa um sistema de gestão de fazendas e colheitas utilizando
 - Separação clara das responsabilidades através do padrão MVC facilita a manutenção e a adição de novas funcionalidades.
 
 Com esta abordagem, o sistema não só atende aos requisitos especificados, mas também proporciona uma base sólida para futuras expansões e melhorias.
+
+
+### UC Programação de soluções computacionais
+
+### Membros
+
+- Felipe Reis Nascimento – RA: 323210811
+- Weslley Bruno Almeida Santos – RA: 32328864
+- Charles Miller De Souza Nascimento – RA: 32326802
+
+## Professores
+- Adalto Sparremberger
+- Adalberto Gessenferth
