@@ -1,4 +1,4 @@
-# Sistema de Gestão de Fazendas e Colheitas
+# Sistema de Gestão de Fazendas e Colheitas 
 
 ## Visão Geral
 Este projeto implementa um sistema de gestão de fazendas e colheitas utilizando o padrão de arquitetura MVC (Model-View-Controller) em Java. O sistema permite cadastrar fazendas, registrar colheitas, gerenciar inventário e calcular o valor dos produtos, tudo através de uma interface gráfica baseada em JOptionPane.
