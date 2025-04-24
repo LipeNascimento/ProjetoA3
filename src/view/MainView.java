@@ -3,11 +3,10 @@ package view;
 import controller.FarmController;
 import controller.HarvestController;
 import controller.InventoryController;
+import java.text.ParseException;
+import javax.swing.*;
 import model.Farm;
 import model.Harvest;
-
-import javax.swing.*;
-import java.text.ParseException;
 
 public class MainView {
     private FarmController farmController = new FarmController();
@@ -99,7 +98,7 @@ public class MainView {
     }
 
     private void adicionarProduto() {
-        var harvests = harvestController.getHarvests();
+        java.util.List<model.Harvest> harvests = harvestController.getHarvests();
         if (harvests.isEmpty()) {
             JOptionPane.showMessageDialog(null, "Nenhuma colheita cadastrada.");
             return;
