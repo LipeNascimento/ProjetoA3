@@ -67,6 +67,12 @@ Com esta abordagem, o sistema não só atende aos requisitos especificados, mas 
 
 ### UC Programação de soluções computacionais - GRUPO ÁNIMA 
 
+### Confira o vídeo no YouTube clicando no link abaixo:
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/j_f4Pg0UI7c/0.jpg)](https://www.youtube.com/watch?v=j_f4Pg0UI7c)
+
+🔗 [Assistir ao vídeo no YouTube](https://www.youtube.com/watch?v=j_f4Pg0UI7c)
+
 ### Membros
 
 - Felipe Reis Nascimento – RA: 323210811
